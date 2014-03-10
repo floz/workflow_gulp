@@ -1,0 +1,24 @@
+{
+  "name": "template",
+  "author": "floz <florian.zumbrunn@gmail.com>",
+  "version": "0.0.1",
+  "private": true,
+  "engines": {
+    "node": ">= 0.9"
+  },
+  "dependencies": {
+    "coffee-script": "*"
+  },
+  "devDependencies": {
+    "gulp": "3.5.5",
+    "gulp-watch": "0.5.2",
+    "gulp-stylus": "0.0.14",
+    "gulp-jade": "0.4.2",
+    "gulp-changed": ">= 0.2.1",
+    "gulp-cached": ">= 0.0.3",
+    "gulp-debug": "0.2.0",
+
+    "browser-sync": "*"
+
+  }
+}
